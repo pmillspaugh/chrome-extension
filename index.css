@@ -1,0 +1,17 @@
+#primaryDiv {
+  display: flex;
+  flex-direction: column;
+  padding: 3vh;
+}
+
+.beautText {
+  font-family: monospace;
+  font-size: 3rem;
+  color: white;
+}
+
+.motivationalPoster {
+  display: block;
+  margin-top: 3vh;
+  height: 75vh;
+}
